@@ -1,0 +1,5 @@
+autoflow.ico
+*.spec
+dist/
+build/
+__pycache__/
